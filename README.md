@@ -49,19 +49,19 @@ A beautiful web application for travelers to share and preserve their journey me
 1. Clone the repository
 
 ```bash
-git clone https://github.com/sapatmohit/Travel-Story.git
-cd Travel-Story
+git clone https://github.com/Keshavbharadiya/snap-track.git
+cd snap-track
 ```
 
 2. Install dependencies for both frontend and backend
 
 ```bash
 # Install frontend dependencies
-cd travel-story-app
+cd snap-track
 npm install
 
 # Install backend dependencies
-cd travel-story-app/backend
+cd snap-track-app/backend
 npm install
 ```
 
@@ -78,21 +78,23 @@ PORT=5000
 
 ```bash
 # Start backend server
-cd travel-story-app/backend
+cd snap-trach-app/backend
 npm run dev
 
 # Start frontend server
-cd travel-story-app
+cd snap-track-app
 npm run dev
 ```
 
 ## 📸 Screenshots
-
-![Login](/Screenshots/login.png)
-![SignUp](/Screenshots/signup.png)
-![Dashboard](/Screenshots/dashboard.png)
-![Add Story](/Screenshots/addStory.png)
-![Story View](/Screenshots/viewStory.png)
+SignUp:
+![image](https://github.com/user-attachments/assets/9842fab2-4e11-47d4-a431-c24f8ee866e2)
+Login:
+![image](https://github.com/user-attachments/assets/f4e97403-2782-4522-b9b5-d7f0667e7c4b)
+Dashboard:
+![image](https://github.com/user-attachments/assets/098dc476-b063-4079-9010-433d0d5f6ae7)
+View Story:
+![image](https://github.com/user-attachments/assets/c7bd1ea7-98a4-4973-a258-75f063fa5f0e)
 
 ## 🌟 Key Features Explained
 
@@ -126,13 +128,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
-Mohit Sapat - [GitHub](https://github.com/sapatmohit)
+Mohit Sapat - [GitHub] https://github.com/Keshavbharadiya
 
 ## 🙏 Acknowledgments
 
