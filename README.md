@@ -130,7 +130,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-Mohit Sapat - [GitHub] https://github.com/Keshavbharadiya
+keshavbharadiya - [GitHub] https://github.com/Keshavbharadiya
 
 ## 🙏 Acknowledgments
 
